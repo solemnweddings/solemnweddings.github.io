@@ -92,10 +92,10 @@
           "_anchor": "slider-7",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "H1": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#efefef"
             }
           }
