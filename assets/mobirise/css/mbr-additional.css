@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+#slider-7 P {
+  text-align: right;
+}
+#slider-7 H1 {
+  text-align: right;
+  color: #efefef;
+}
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -17,7 +24,7 @@
   font-size: 20px;
 }
 #header1-1 H1 {
-  text-align: center;
+  text-align: right;
 }
 #header1-1 P {
   text-align: right;
