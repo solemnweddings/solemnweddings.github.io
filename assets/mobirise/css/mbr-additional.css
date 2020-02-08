@@ -29,3 +29,82 @@
 #header1-1 P {
   text-align: right;
 }
+
+#ext_menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-a .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-a .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-a .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#content5-c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-c .mbr-article {
+  color: #fff;
+}
+
+#ext_menu-b .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-b .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-b .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-b .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#ext_menu-h .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-h .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-h .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-h .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#ext_menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-g .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-g .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-g .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
