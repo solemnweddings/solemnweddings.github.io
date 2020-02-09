@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 
 
 
@@ -39,6 +42,8 @@
   text-align: right;
 }
 
+
+
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -58,6 +63,8 @@
 #content5-c .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 30px;
 }
 #content5-c .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -65,6 +72,10 @@
 }
 #content5-c .mbr-article {
   color: #fff;
+}
+#content5-c .mbr-article P {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 #ext_menu-h .mbr-brand__name {
@@ -107,4 +118,30 @@
 }
 #header1-s H1 {
   font-size: 36px;
+}
+
+
+#ext_menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-t .mbr-navbar__section {
+  background: #2c82c9;
+}
+#ext_menu-t .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-t .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#header2-v P {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+}
+#header2-v H1 {
+  text-align: center;
 }
