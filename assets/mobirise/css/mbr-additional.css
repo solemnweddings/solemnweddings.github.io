@@ -58,23 +58,6 @@
   color: #fff;
 }
 
-#ext_menu-b .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c82c9;
-}
-#ext_menu-b .mbr-navbar__section {
-  background: #2c82c9;
-}
-#ext_menu-b .mbr-navbar__hamburger {
-  color: #7ac673;
-}
-#ext_menu-b .mbr-brand__name a {
-  font-family: 'Indie Flower', cursive;
-  font-size: 20px;
-}
-
 #ext_menu-h .mbr-brand__name {
   font-size: 16px;
 }
@@ -92,6 +75,17 @@
   font-size: 20px;
 }
 
+#content5-o .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #fff;
+}
+#content5-o .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #fff;
+}
+#content5-o .mbr-article {
+  color: #fff;
+}
 #ext_menu-g .mbr-brand__name {
   font-size: 16px;
 }
