@@ -1,12 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 
+
+
 #slider-7 P {
-  text-align: left;
+  text-align: right;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #slider-7 H1 {
-  text-align: left;
+  text-align: right;
   color: #efefef;
+}
+#slider-7 .btn {
+  font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
