@@ -1,14 +1,15 @@
 {
   "settings": {
     "name": "Site-02-06_1734",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
         "#2b385b",
-        "#f0f0f0"
+        "#f0f0f0",
+        "#ffe89f"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -100,7 +101,9 @@
             },
             "H1": {
               "text-align": "right",
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
@@ -174,7 +177,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/32-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/solemn-web-7-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -186,8 +189,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.3"
           },
-          "title": "Solemn Weddings",
-          "text": "<b>Made for you &amp; your guests</b><br>Our goal is to create fun, emotional breathtaking moments with <b><i>Stills</i></b> as well as <b><i>Motions</i></b>. Our spectrum of experience allows you to create magic with the support of our <b>Photographers</b> and <b>Cinematographers</b> with having the same philosophy and style of narrating a <b>Wedding Story</b>.<br>",
+          "title": "Shivam &amp; his Wife&nbsp;",
+          "text": "A Great marriage doesn’t happen because of the love you had in the beginning but how well you continue building love until the end. ” This quote stands true for Shivam and his wife, who meet each other through their families.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -196,10 +199,14 @@
           "_anchor": "header1-1",
           "_styles": {
             "H1": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffe89f"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#ffffff"
             }
           }
         },
@@ -208,11 +215,11 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "images/bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/solemn-web-9-2000x3000.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -224,15 +231,26 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "title": "Pratiksha <br>and<br>Shubham",
+          "text": "Pratiksha and Shubham make for a wonderful pair. It has been a delightful experience interacting and working on this project from our very first meet. An intimate wedding with just the right ingredients of fun, laughter, and emotions along with a bunch of family, friends, and cousins jostling the couple is what makes capturing weddings a rewarding experience.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-2"
+          "_anchor": "header4-2",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#27aae0"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -288,82 +306,6 @@
         },
         {
           "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-4"
-        },
-        {
-          "_params": {
             "showText": true,
             "outside": false,
             "bgColor": "#252525"
@@ -386,31 +328,6 @@
           ],
           "_name": "image1",
           "_anchor": "image1-5"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-6"
         },
         {
           "_params": {
@@ -723,8 +640,8 @@
                 "active": true
               },
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pic01-847x533.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic01-847x533-426x426.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
