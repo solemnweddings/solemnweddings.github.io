@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-06_1734",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -95,15 +95,15 @@
           "_anchor": "slider-7",
           "_styles": {
             "P": {
-              "text-align": "right",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+              "text-align": "left",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             "H1": {
-              "text-align": "right",
+              "text-align": "center",
               "color": "#efefef",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
@@ -254,7 +254,7 @@
               "text-align": "center",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#27aae0"
+              "color": "#ffffff"
             },
             "P": {
               "text-align": "right"
@@ -287,7 +287,14 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-5"
+          "_anchor": "image1-5",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_params": {
@@ -618,18 +625,20 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/pic01-847x533.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic01-847x533-426x426.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/edit2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit2-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "image": "images/slide3.jpg",
                 "thumb": "images/slide3-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "image": "images/slide4.jpg",
@@ -692,11 +701,12 @@
                 "active": true
               },
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/edit13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit13-2000x1333-800x533.jpg",
+                "alt": "1",
+                "title": "1",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "image": "images/slide3.jpg",
@@ -1093,7 +1103,13 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-w"
+          "_anchor": "header3-w",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",

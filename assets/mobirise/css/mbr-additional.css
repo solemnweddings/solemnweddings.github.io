@@ -1,7 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
@@ -15,14 +13,15 @@
 
 
 
+
 #slider-7 P {
-  text-align: right;
-  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
 }
 #slider-7 H1 {
-  text-align: right;
+  text-align: center;
   color: #efefef;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #slider-7 .btn {
   font-family: 'Oxygen', sans-serif;
@@ -62,10 +61,14 @@
 #header4-2 H1 {
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  color: #27aae0;
+  color: #ffffff;
 }
 #header4-2 P {
   text-align: right;
+}
+#image1-5 SMALL {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
 }
 
 
@@ -176,6 +179,7 @@
 
 
 
+
 #ext_menu-t .mbr-brand__name {
   font-size: 16px;
 }
@@ -206,4 +210,7 @@
 }
 #header2-v H1 {
   text-align: center;
+}
+#header3-w H3 {
+  font-family: 'Oxygen', sans-serif;
 }
