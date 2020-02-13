@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-06_1734",
-    "currentPage": "gallery.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1171,8 +1171,8 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "18px"
             },
             "H1": {

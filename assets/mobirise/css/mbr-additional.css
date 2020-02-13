@@ -4,7 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 
 
 
@@ -205,7 +204,7 @@
 }
 #header2-v P {
   text-align: center;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 18px;
 }
 #header2-v H1 {
