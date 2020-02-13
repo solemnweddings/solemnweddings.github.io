@@ -16,7 +16,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png"
   },
@@ -617,12 +617,12 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/edit2-2000x1333.jpg",
@@ -633,47 +633,52 @@
                 "active": false
               },
               {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit3-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit5-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit6-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit7-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit14-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit14-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edit12-1-2000x2705.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/edit12-1-2000x2705-800x519.jpeg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -693,62 +698,68 @@
             "showBullets": true,
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/edit13-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/edit13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
                 "alt": "1",
                 "title": "1",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9-1-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1-2000x1333-800x532.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20-3-2000x2464.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20-3-2000x2464-800x543.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-2-2000x3000.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2-2000x3000-800x539.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-2000x1331-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
               }
             ]
           },
@@ -860,6 +871,82 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-j"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": false,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/solemn-web2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/solemn-web2-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/solemn-web5-2000x1221.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/solemn-web5-2000x1221-800x488.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "thumb": "images/slide3-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide4.jpg",
+                "thumb": "images/slide4-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide5.jpg",
+                "thumb": "images/slide5-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide6.jpg",
+                "thumb": "images/slide6-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-14"
         }
       ]
     },
