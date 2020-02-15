@@ -511,7 +511,8 @@
             },
             ".mbr-reviews__author-name": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           }
         },
