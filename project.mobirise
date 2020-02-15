@@ -871,82 +871,6 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-j"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": false,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/solemn-web2-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/solemn-web2-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/solemn-web5-2000x1221.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/solemn-web5-2000x1221-800x488.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-14"
         }
       ]
     },
@@ -1185,7 +1109,7 @@
             "showMeta": true
           },
           "title": "Services",
-          "meta": "",
+          "meta": "<span style=\"font-style: normal;\">THE NEW AGE OF WEDDING PHOTOGRAPHY</span>",
           "_tags": [
             "Theme"
           ],
@@ -1195,16 +1119,26 @@
             "H3": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             }
           }
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>We believe wedding photography should be fun, timeless and inspirational. We are a boutique Indian wedding photography studio that is best known for our unique style of wedding photography for the modern couple. We look forward to being a part of your story!</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-x"
+          "_anchor": "content1-x",
+          "_styles": {
+            "P": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          }
         },
         {
           "text": "<p><b>Post Wedding Photoshoot:</b></p><p>Post wedding shoot is a nice idea, especially after when you have done all the rituals and traditions and are free from the wedding day pressure, it’s now time for another fun-filled shoot.</p>",
