@@ -74,6 +74,8 @@
 
 
 
+
+
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -113,6 +115,12 @@
 #content5-c .mbr-article P {
   text-align: center;
   font-family: 'Titillium Web', sans-serif;
+}
+#testimonials1-d .mbr-section__header {
+  font-family: 'Indie Flower', cursive;
+}
+#testimonials1-d .mbr-reviews__author-name {
+  font-family: 'Indie Flower', cursive;
 }
 
 
