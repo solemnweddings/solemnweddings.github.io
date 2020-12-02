@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-06_1734",
-    "currentPage": "about.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -467,19 +467,19 @@
           "header": "Testimonials",
           "items": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "authorName": "Shivani &amp; Archit",
+              "authorBio": "Yash Technology, Indore",
+              "text": "<p class=\"mbr-reviews__p\">“Thanks so much for a wonderful photos, we had such a great time and you captured it all! Everyone said what a great photographers you all are and you all were everywhere..!&nbsp;<br></p><p class=\"mbr-reviews__p\">We love the photos and will be sharing them all with everyone.”</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "authorName": "Pratiksha &amp; Shubham",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“Thank you for the photos, they are amazing. So happy with them 😍😍 &nbsp;Can’t stop looking at them. All the best to you and keep doing the amazing work that you do..”&nbsp;</p><p class=\"mbr-reviews__p\">Thank you so much solemn guys</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "authorName": "<p>Sapna &amp; Devesh</p>",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“We love them! The photos are so natural and you have captured our overwhelming feelings from the day. The photos brought back many intense emotions – from tears to so much laughter – we cannot thank you enough!”</p><p class=\"mbr-reviews__p\">- Best Wishes</p>"
             }
           ],
           "_tags": [
@@ -980,7 +980,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "<br><br><br><br>Coming Soon .. !<br>",
-          "text": "By <i>Kuldeep Bagri</i> - Jan 1st, 2020.<br><br>",
+          "text": "By <i>Kuldeep Bagri</i> - Jan 1st, 2021.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Stay Tuned</a>",
           "_tags": [
             "Theme"
